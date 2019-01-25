@@ -1,4 +1,4 @@
-baseURL = "https://joseph-montanez.github.io/puncture-website/docs/"
+baseURL = "https://joseph-montanez.github.io/puncture-website/docs"
 languageCode = "en-us"
 title = "Puncture"
 theme = "ananke"
