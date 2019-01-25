@@ -3,12 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joseph-montanez.github.io/puncture-website/categories/</loc>
-    <priority>0</priority>
+    <loc>https://joseph-montanez.github.io/puncture-website/</loc>
   </url>
   
   <url>
-    <loc>https://joseph-montanez.github.io/puncture-website/</loc>
+    <loc>https://joseph-montanez.github.io/puncture-website/categories/</loc>
     <priority>0</priority>
   </url>
   

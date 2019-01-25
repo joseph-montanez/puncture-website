@@ -1,5 +1,9 @@
 baseURL = "https://joseph-montanez.github.io/puncture-website/"
 languageCode = "en-us"
 title = "Puncture"
-theme = "ananke"
+theme = "terrassa"
 publishDir = "docs"
+
+
+[params.hero]
+    textColor = "#fff" # Empty for default color
